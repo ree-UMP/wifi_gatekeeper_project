@@ -1,0 +1,3 @@
+# Example Python dependencies
+requests
+python-telegram-bot

@@ -1,0 +1,1 @@
+def classify_risk(mac: str, name: str) -> str by llm();
